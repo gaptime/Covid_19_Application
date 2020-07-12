@@ -1,1 +1,1 @@
-# AWS_App
+# Denia's Summer 2020 Internship
