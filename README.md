@@ -10,3 +10,7 @@ This application was spured by Denia's 2020 Summer Internship to help connect pe
 ## Code Dependencies
 
 Node v12.18.3
+
+## Code Structure
+
+
