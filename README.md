@@ -8,7 +8,7 @@
 This application was spured by Denia's 2020 Summer Internship to help connect people to various resources and information regarding covid-19 topics. We will be using the MERN stack. 
 
 ## Team Section
-We are a 5 peopel team. Leader: Rebecca; UI/UX designer: Denia; Full Stack developer: Hao & Jimmy; Database developer: Naiyu
+We are a 5 people team. Leader: Rebecca; UI/UX designer: Denia; Full Stack developer: Hao & Jimmy; Database developer: Naiyu
 
 ## Code Dependencies
 
