@@ -1,4 +1,4 @@
-# Covid 19 Application
+# Covid Connection
 
 <a href="https://github.com/gaptime/Covid_19_Application" target="blank"><img src="https://img.shields.io/tokei/lines/github/gaptime/Covid_19_Application" /></a> <a href="https://github.com/gaptime/Covid_19_Application/issues" target="blank">
 <img src="https://img.shields.io/github/issues/gaptime/Covid_19_Application" />
