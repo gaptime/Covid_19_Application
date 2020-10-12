@@ -2,9 +2,9 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 14895,
-  "expoServerNgrokUrl": "https://5w-cgz.anonymous.frontend.exp.direct",
-  "packagerNgrokUrl": "https://packager.5w-cgz.anonymous.frontend.exp.direct",
-  "ngrokPid": 10605,
-  "webpackServerPort": 19006
+  "packagerPid": 14672,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null,
+  "webpackServerPort": null
 }
