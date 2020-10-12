@@ -1,5 +1,5 @@
 # Organization website
-[Click me!](https://gaptime.github.io/homepage/)
+[website](https://gaptime.github.io/homepage/)
 
 # Covid-19 Connection
 
