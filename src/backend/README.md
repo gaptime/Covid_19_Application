@@ -3,7 +3,9 @@ To keep the database password safe, the keys.js file is not uploaded to the Gith
 
 In the keys.js file, you should write the code like this down below:
 
+```
 module.exports = {
     mongodb+srv://gaptime:<password>@cluster0.cxibk.mongodb.net/<dbname>?retryWrites=true&w=majority,
     secretOrKey: "secret" 
   };
+```
